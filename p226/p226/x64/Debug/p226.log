@@ -1,0 +1,6 @@
+﻿  p226.c
+C:\Users\taosu\SyncFile\WorkFlow\PointerOnC\p226\p226\p226.c(28,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\taosu\SyncFile\WorkFlow\PointerOnC\p226\p226\p226.c(28,18): warning C4024: 'compare': different types for formal and actual parameter 1
+C:\Users\taosu\SyncFile\WorkFlow\PointerOnC\p226\p226\p226.c(28,29): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\taosu\SyncFile\WorkFlow\PointerOnC\p226\p226\p226.c(28,26): warning C4024: 'compare': different types for formal and actual parameter 2
+  p226.vcxproj -> C:\Users\taosu\SyncFile\WorkFlow\PointerOnC\p226\x64\Debug\p226.exe

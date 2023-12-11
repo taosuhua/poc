@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+void main(void){
+	int a = 10, b = 0, c = -10;
+	printf("Increment(%d) = %d; Negate(%d) = %d. \n",a,increment(a),a,negate(a));
+	printf("Increment(%d) = %d; Negate(%d) = %d. \n",b,increment(b),b,negate(b));
+	printf("Increment(%d) = %d; Negate(%d) = %d. \n",c,increment(c),a,negate(c));
+}
+
+int16_t increment(int16_t num){
+	return num++;
+}
+
+int16_t negate(int16_t num){
+	return num*=-1;
+})

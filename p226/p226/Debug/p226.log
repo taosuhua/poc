@@ -1,0 +1,4 @@
+﻿  p226.c
+C:\Users\taosu\SyncFile\WorkFlow\PointerOnC\p226\p226\p226.c(24,11): warning C4101: 'tmp': unreferenced local variable
+C:\Users\taosu\SyncFile\WorkFlow\PointerOnC\p226\p226\p226.c(24,6): warning C4101: 'max': unreferenced local variable
+  p226.vcxproj -> C:\Users\taosu\SyncFile\WorkFlow\PointerOnC\p226\Debug\p226.exe
